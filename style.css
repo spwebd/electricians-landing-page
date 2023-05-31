@@ -85,7 +85,13 @@ ul {
     
 }
 
-
+#butt1 {
+    width: 70px;
+    height: 20px;
+    background-color :rgb(219, 85, 85);
+    color: blue;
+    border-radius: 4px;
+   }
 
 footer {
     /*border: solid red 2px;*/
